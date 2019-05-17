@@ -1,1 +1,3 @@
-greeting ("hello", "Anthony")
+def greeting (name)
+  puts "Hello, #{Anthony}"
+end
