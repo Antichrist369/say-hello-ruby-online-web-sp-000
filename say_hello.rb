@@ -1,2 +1,1 @@
-greeting ("hello", "Anthony"
-)
+greeting ("hello", "Anthony")
