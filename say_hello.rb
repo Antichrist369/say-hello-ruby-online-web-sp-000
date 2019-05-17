@@ -1,3 +1,4 @@
-def greeting (name="Anthony", language="ruby")
-  puts "Hello, #{language}programmer."
+#method name       #argument
+def greeting say_hello(name)
+  "Hello #{Anthony}"
 end
