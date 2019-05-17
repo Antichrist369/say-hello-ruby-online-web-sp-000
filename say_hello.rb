@@ -1,3 +1,2 @@
-def greeting (name)
-  "Hello #{Anthony}"
-end
+greeting ("hello", "Anthony"
+)
